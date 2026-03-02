@@ -1,4 +1,4 @@
-"""
+﻿"""
 downloader에서 파일 형식이나 다운로드 방식(로직)이 다른 경우, 별도의 endpoint를 구성해야 할 것 같은데, text 형식 binary 형식, youtube 정도만 구분하면 될까요?
 """
 

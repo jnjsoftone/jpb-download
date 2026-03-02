@@ -1,4 +1,4 @@
-# JnJ File Downloader API
+﻿# JnJ File Downloader API
 
 Chrome 확장 프로그램용 로컬 파일 다운로드 서버. FastAPI + yt-dlp 기반.
 

@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, Header
+﻿from fastapi import FastAPI, HTTPException, Header
 from fastapi.middleware.cors import CORSMiddleware
 
 from schemas import AutoDownloadRequest, DirectDownloadRequest, YoutubeDownloadRequest, SaveTextRequest, SaveBinaryRequest

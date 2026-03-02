@@ -1,4 +1,4 @@
-
+﻿
 """
 uv 로 python package를 관리하고, FastAPI, yt-dlp 등을 사용하여 file downloader를 구현하도록 해주세요. 필요시 file의 종류에 따라 별도의 로직을 구현하되, endpoint는 되도록이면 최소화해주세요.
 """
